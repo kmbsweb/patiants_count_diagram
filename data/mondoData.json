@@ -1,0 +1,223 @@
+[
+  {
+    "id": "MONDO:0005015",
+    "name": "Metabolic disease",
+    "nameJa": "代謝性疾患",
+    "count": 1920000,
+    "children": [
+      {
+        "id": "MONDO:0005070",
+        "name": "Endocrine metabolic disease",
+        "nameJa": "内分泌代謝疾患",
+        "count": 1480000,
+        "children": [
+          {
+            "id": "MONDO:0010001",
+            "name": "Diabetes mellitus",
+            "nameJa": "糖尿病",
+            "count": 810000,
+            "children": [
+              { "id": "MONDO:0011001", "name": "Type 2 diabetes mellitus", "nameJa": "2型糖尿病", "count": 520000 },
+              { "id": "MONDO:0011002", "name": "Type 1 diabetes mellitus", "nameJa": "1型糖尿病", "count": 150000 },
+              { "id": "MONDO:0011003", "name": "Gestational diabetes", "nameJa": "妊娠糖尿病", "count": 90000 }
+            ]
+          },
+          {
+            "id": "MONDO:0010002",
+            "name": "Thyroid disorder",
+            "nameJa": "甲状腺疾患",
+            "count": 290000,
+            "children": [
+              { "id": "MONDO:0012001", "name": "Hypothyroidism", "nameJa": "甲状腺機能低下症", "count": 170000 },
+              { "id": "MONDO:0012002", "name": "Hyperthyroidism", "nameJa": "甲状腺機能亢進症", "count": 120000 }
+            ]
+          },
+          {
+            "id": "MONDO:0010003",
+            "name": "Adrenal metabolic disorder",
+            "nameJa": "副腎代謝障害",
+            "count": 380000,
+            "children": [
+              { "id": "MONDO:0013001", "name": "Cushing syndrome", "nameJa": "クッシング症候群", "count": 140000 },
+              { "id": "MONDO:0013002", "name": "Addison disease", "nameJa": "アジソン病", "count": 95000 }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "MONDO:0005071",
+        "name": "Inherited metabolic disease",
+        "nameJa": "先天性代謝異常",
+        "count": 440000,
+        "children": [
+          {
+            "id": "MONDO:0014001",
+            "name": "Lysosomal storage disease",
+            "nameJa": "リソソーム蓄積症",
+            "count": 190000,
+            "children": [
+              { "id": "MONDO:0015001", "name": "Gaucher disease", "nameJa": "ゴーシェ病", "count": 75000 },
+              { "id": "MONDO:0015002", "name": "Fabry disease", "nameJa": "ファブリー病", "count": 65000 }
+            ]
+          },
+          {
+            "id": "MONDO:0014002",
+            "name": "Mitochondrial disorder",
+            "nameJa": "ミトコンドリア疾患",
+            "count": 120000,
+            "children": [
+              { "id": "MONDO:0016001", "name": "MELAS syndrome", "nameJa": "MELAS症候群", "count": 45000 },
+              { "id": "MONDO:0016002", "name": "Leigh syndrome", "nameJa": "リー症候群", "count": 35000 }
+            ]
+          },
+          { "id": "MONDO:0014003", "name": "Amino acid metabolism disorder", "nameJa": "アミノ酸代謝異常", "count": 130000 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MONDO:0005016",
+    "name": "Cardiovascular disease",
+    "nameJa": "循環器疾患",
+    "count": 2100000,
+    "children": [
+      {
+        "id": "MONDO:0006015",
+        "name": "Ischemic heart disease",
+        "nameJa": "虚血性心疾患",
+        "count": 680000,
+        "children": [
+          { "id": "MONDO:0020001", "name": "Coronary artery disease", "nameJa": "冠状動脈疾患", "count": 420000 },
+          { "id": "MONDO:0020002", "name": "Myocardial infarction", "nameJa": "心筋梗塞", "count": 260000 }
+        ]
+      },
+      {
+        "id": "MONDO:0006016",
+        "name": "Heart failure",
+        "nameJa": "心不全",
+        "count": 430000,
+        "children": [
+          { "id": "MONDO:0021001", "name": "Systolic heart failure", "nameJa": "収縮不全", "count": 240000 },
+          { "id": "MONDO:0021002", "name": "Diastolic heart failure", "nameJa": "拡張不全", "count": 190000 }
+        ]
+      },
+      {
+        "id": "MONDO:0006017",
+        "name": "Vascular disease",
+        "nameJa": "血管疾患",
+        "count": 520000,
+        "children": [
+          { "id": "MONDO:0022001", "name": "Stroke", "nameJa": "脳卒中", "count": 310000 },
+          { "id": "MONDO:0022002", "name": "Peripheral arterial disease", "nameJa": "閉塞性動脈疾患", "count": 210000 }
+        ]
+      },
+      {
+        "id": "MONDO:0006018",
+        "name": "Hypertension",
+        "nameJa": "高血圧",
+        "count": 470000,
+        "children": [
+          { "id": "MONDO:0023001", "name": "Essential hypertension", "nameJa": "本態性高血圧", "count": 390000 },
+          { "id": "MONDO:0023002", "name": "Secondary hypertension", "nameJa": "二次性高血圧", "count": 80000 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MONDO:0005017",
+    "name": "Respiratory disease",
+    "nameJa": "呼吸器疾患",
+    "count": 1540000,
+    "children": [
+      {
+        "id": "MONDO:0007015",
+        "name": "Chronic lower respiratory disease",
+        "nameJa": "慢性下部呼吸器疾患",
+        "count": 540000,
+        "children": [
+          { "id": "MONDO:0030001", "name": "Asthma", "nameJa": "喘息", "count": 280000 },
+          { "id": "MONDO:0030002", "name": "Chronic obstructive pulmonary disease", "nameJa": "慢性閉塞性肺疾患", "count": 260000 }
+        ]
+      },
+      {
+        "id": "MONDO:0007016",
+        "name": "Interstitial lung disease",
+        "nameJa": "間質性肺疾患",
+        "count": 210000,
+        "children": [
+          { "id": "MONDO:0031001", "name": "Idiopathic pulmonary fibrosis", "nameJa": "特発性肺線維症", "count": 95000 },
+          { "id": "MONDO:0031002", "name": "Sarcoidosis", "nameJa": "サルコイドーシス", "count": 60000 }
+        ]
+      },
+      {
+        "id": "MONDO:0007017",
+        "name": "Respiratory infection",
+        "nameJa": "呼吸器感染症",
+        "count": 460000,
+        "children": [
+          { "id": "MONDO:0032001", "name": "Pneumonia", "nameJa": "肺炎", "count": 240000 },
+          { "id": "MONDO:0032002", "name": "Bronchitis", "nameJa": "気管支炎", "count": 150000 },
+          { "id": "MONDO:0032003", "name": "Tuberculosis", "nameJa": "結核", "count": 70000 }
+        ]
+      },
+      {
+        "id": "MONDO:0007018",
+        "name": "Sleep-related respiratory disease",
+        "nameJa": "睡眠関連呼吸器疾患",
+        "count": 330000,
+        "children": [
+          { "id": "MONDO:0033001", "name": "Obstructive sleep apnea", "nameJa": "閉塞性睡眠時無呼吸", "count": 210000 },
+          { "id": "MONDO:0033002", "name": "Pulmonary hypertension", "nameJa": "肺高血圧", "count": 120000 }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "MONDO:0005018",
+    "name": "Gastrointestinal disease",
+    "nameJa": "消化管疾患",
+    "count": 1180000,
+    "children": [
+      {
+        "id": "MONDO:0008015",
+        "name": "Hepatobiliary disease",
+        "nameJa": "肝胆道疾患",
+        "count": 420000,
+        "children": [
+          { "id": "MONDO:0040001", "name": "Cirrhosis", "nameJa": "肝硬変", "count": 180000 },
+          { "id": "MONDO:0040002", "name": "Nonalcoholic fatty liver disease", "nameJa": "非アルコール性脂肪性肝疾患", "count": 240000 }
+        ]
+      },
+      {
+        "id": "MONDO:0008016",
+        "name": "Inflammatory bowel disease",
+        "nameJa": "炎症性腸疾患",
+        "count": 260000,
+        "children": [
+          { "id": "MONDO:0041001", "name": "Crohn disease", "nameJa": "クローン病", "count": 150000 },
+          { "id": "MONDO:0041002", "name": "Ulcerative colitis", "nameJa": "潰瘍性大腸炎", "count": 110000 }
+        ]
+      },
+      {
+        "id": "MONDO:0008017",
+        "name": "Functional gastrointestinal disorder",
+        "nameJa": "機能性胃腸障害",
+        "count": 210000,
+        "children": [
+          { "id": "MONDO:0042001", "name": "Irritable bowel syndrome", "nameJa": "過敏性腸症候群", "count": 140000 },
+          { "id": "MONDO:0042002", "name": "Gastroesophageal reflux disease", "nameJa": "胃食道逆流症", "count": 70000 }
+        ]
+      },
+      {
+        "id": "MONDO:0008018",
+        "name": "Pancreatic disease",
+        "nameJa": "膵疾患",
+        "count": 290000,
+        "children": [
+          { "id": "MONDO:0043001", "name": "Acute pancreatitis", "nameJa": "急性膵炎", "count": 160000 },
+          { "id": "MONDO:0043002", "name": "Chronic pancreatitis", "nameJa": "慢性膵炎", "count": 130000 }
+        ]
+      }
+    ]
+  }
+]
